@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    white mode-->
+    <color name="primary">#8c4a60</color>
+    <color name="secondary">#74565f</color>
+    <color name="tertiary">#7c5635</color>
+    <color name="primary_container">#ffd9e2</color>
+    <color name="secondary_container">#ffd9e2</color>
+    <color name="tertiary_container">#ffdcc2</color>
+    <color name="white">#d5c2c6</color>
+    <color name="black">#372e30</color>
+
+<!--    dark mode-->
+    <color name="primary_dark">#ffb0c8</color>
+    <color name="secondary_dark">#e2bdc7</color>
+    <color name="tertiary_dark">#efbd94</color>
+    <color name="primary_container_dark">#703349</color>
+    <color name="secondary_container_dark">#5a3f47</color>
+    <color name="tertiary_container_dark">#623f20</color>
+
+</resources>

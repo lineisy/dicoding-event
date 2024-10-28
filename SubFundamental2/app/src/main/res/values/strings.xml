@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">\Dicoding Event</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="open_event_link">Open Event Link</string>
+    <string name="error_message">Failed Fetching Data</string>
+    <string name="description_media_cover">Cover image for the event</string>
+</resources>
+
